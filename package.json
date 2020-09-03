@@ -23,7 +23,7 @@
     "dependencies": {
         "@hapi/basic": "^5.1.1",
         "@hapi/boom": "^8.0.1",
-        "@hapi/hapi": "^18.4.0",
+        "@hapi/hapi": "^19.1.1",
         "@hapi/joi": "^15.1.1",
         "bcryptjs": "^2.4.3",
         "esm": "^3.2.25",
